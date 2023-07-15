@@ -7,13 +7,9 @@
 
 - 🌱 I’m currently learning **Java Backend Stack (Maven, Spring & Springboot, JPA Hibernate)**
 
-- 👯 I’m looking to collaborate on **DELETE**
-
-- 🤝 I’m looking for help with **DELETE**
-
 - 💬 Ask me about **C++ and Qt**
 
-- 📫 How to reach me **mail@**
+- 📫 How to reach me **yassinn.azougagh@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
