@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alboran</h1>
+<h1 align="center">Hi 👋, I'm Yassinn Azougagh</h1>
 <h3 align="center">A junior backend developer from France</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imalboran&label=Profile%20views&color=0e75b6&style=flat" alt="imalboran" /> </p>
