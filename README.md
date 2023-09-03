@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imalboran&label=Profile%20views&color=0e75b6&style=flat" alt="imalboran" /> </p>
 
-- 🔭 I’m currently working on **Quizzy**
+- 🔭 I’m currently working on **Guess that Movie - A game whose goal is to guess a movie thanks to its characteristics**
 
 - 🌱 I’m currently learning **Java Backend Stack (Maven, Spring & Springboot, JPA Hibernate)**
 
-- 💬 Ask me about **C++ and Qt**
+- 💬 I'm also intersted about **C++, Qt and SwiftUI**
 
 - 📫 How to reach me **yassinn.azougagh@outlook.com**
 
